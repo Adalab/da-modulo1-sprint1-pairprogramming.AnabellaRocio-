@@ -1,2 +1,4 @@
 # da-modulo1-sprint1-pairprogramming.AnabellaRocio-
-Ejercicios listas y tuplas
+Ejercicios Listas y Tuplas
+Ejercicios Diccionarios y Sets
+
