@@ -2,3 +2,4 @@
 Ejercicios Listas y Tuplas
 Ejercicios Diccionarios y Sets
 
+Rocio esta aprendiendo
